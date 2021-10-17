@@ -21,7 +21,7 @@ h2 a, a:hover {
 }
 p {
 	orphans: 3;
-	text-align: justify;
+	/* text-align: justify; */
 }
 .header {
 	position: fixed;
