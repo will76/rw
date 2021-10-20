@@ -156,6 +156,10 @@ h3 {
 	background: url('../images/bg6_1920_web.jpg') center center no-repeat;
 	background-size: cover;
 }
+.page-section#confirme {
+	background: url('../images/confirme.jpg') center center no-repeat;
+	background-size: cover;
+}
 .page-section#registry {
 	background: url('../images/bg5_1920_web.jpg') bottom center no-repeat;
 	background-size: cover;
@@ -244,9 +248,10 @@ hr {border-color: #ddd;}
 .rslides img {
   display: block;
   height: auto;
-  float: left;
-  width: 100%;
+  float: none;
   border: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .centered-btns_nav {
